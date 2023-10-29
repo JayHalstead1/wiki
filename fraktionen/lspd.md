@@ -10,10 +10,6 @@
 
 ### Besonderheiten  <a href="#3-toc-title" id="3-toc-title"></a>
 
-#### LSPD Dienstvorschriften
-
-{% embed url="https://docs.google.com/document/d/1qkeXuUjuDgozn_5NlAbaDZ5nH6MPOT10lYWK-EnJG3U/edit" %}
-
 {% embed url="https://copsystem.tynopia.net/" %}
 
 _Das LSPD ist eine Staatsfraktion._
